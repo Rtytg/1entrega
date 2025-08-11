@@ -1,7 +1,7 @@
- # Universidad de la Sabana
+# Universidad de la Sabana
 ## Diseño y Arquitectura de Software
-### Taller 1 - Método de la Fábrica
-Creado por: Mariana Valle Moreno y Juan Pablo Benitez
+### Taller 1 
+Santiago Pulido Herrera
 
 #### Parte 1:
 ![PizzaFactoryUML](DiagramaPizzaFactory.png)
