@@ -9,4 +9,4 @@ Santiago Pulido Herrera
 #### Parte 2:
 
 ![DiagramaUML](C:\Users\usr\Downloads\Uml Juego.png)
- src="https://github.com/user-attachments/assets/d2c46342-5ecc-4fa7-80a1-222f6a8ee797" />
+
