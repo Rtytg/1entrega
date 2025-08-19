@@ -9,7 +9,6 @@ public class InputHandler extends KeyAdapter{
 	
 	public InputHandler(Game game){
 		this.game = game;
-	}
 
 	@Override
 	public void keyPressed(KeyEvent e) {
